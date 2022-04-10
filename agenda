@@ -1,0 +1,10 @@
+1) intro
+=> COMPONENTS --> Button   Navbar   Forms   Tables
+=> Grid
+2) Installing Bootstrap
+
+3) Components
+    1) Container
+    2) Buttons --> alerts colors  --> utilities  bg-colors
+    3) Typography(Content) & utilities(colors, bg-colors)
+    4) Alert, Badges, Button Groups
